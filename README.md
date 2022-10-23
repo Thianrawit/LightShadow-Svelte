@@ -9,7 +9,7 @@
 ---
 
 Preview
-``` Codepen : https://codepen.io/thianrawit/pen/OJELWKR ```
+Codepen : https://codepen.io/thianrawit/pen/OJELWKR
 
 # Clone my app
 
